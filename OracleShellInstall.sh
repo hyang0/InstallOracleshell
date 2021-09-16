@@ -4349,6 +4349,7 @@ EOF
 # group 18 size 1024M,
 # group 19 size 1024M,
 # group 20 size 1024M;
+# exit;
 # EOF
 #   else
 #     cat <<EOF >/home/oracle/create_redolog.sql
@@ -4358,6 +4359,7 @@ EOF
 # group 13 size 1024M,
 # group 14 size 1024M,
 # group 15 size 1024M;
+# exit;
 # EOF
 #   fi
   
